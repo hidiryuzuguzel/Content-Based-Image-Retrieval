@@ -1,5 +1,5 @@
-% SGN-31006 Image and Video Processing Techniques EXERCISE 5 and 6 
-% Hidir Yuzuguzel, 244904
+% Content Based Image Retrieval 
+% @author: Hidir Yuzuguzel
 % Department of Signal Processing, TUT
 clear all; clc;
 
